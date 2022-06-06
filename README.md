@@ -1,2 +1,2 @@
 # utilities
-A collection of utility functions
+A collection of simple javascript utility functions
